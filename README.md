@@ -1,6 +1,6 @@
 # Hi there, I'm Win Htet - aka [win][website] 👋
 
-## I'm a Electrical Engineer, Seaman, Front-end Developer, and Learner!!
+## I'm a Electrical Engineer, Front-end Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
